@@ -3,8 +3,8 @@ const router=express.Router();
 
 var author_arr = [
     { 
-        title:"Arundhati Roy",
-        image:"http://highlightsindia.com/wp-content/uploads/2017/06/image-2017-06-12-2.jpg",
+        title:"J K Rowling",
+        image:"https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/04/17/11/jkrowling-inpictures-4-17-19-057.jpg",
         about:"https://en.wikipedia.org/wiki/Arundhati_Roy"
     },
 
